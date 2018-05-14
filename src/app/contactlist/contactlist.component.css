@@ -1,0 +1,18 @@
+/* .contactlist{
+  text-align: center;
+} */
+
+.spinner{
+  top: 45%;
+  left: 47%;
+  position: fixed;
+}
+.contactlist-container, #paginator {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+  max-width: 1200px;
+  max-height: 700px;
+  overflow: auto;
+  margin: 0 auto;
+}
