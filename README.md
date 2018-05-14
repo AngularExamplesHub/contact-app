@@ -2,17 +2,17 @@
 Contact Application using ASP.NET Core Web API, Angular 6.0, and Visual Studio Code. 
 
 ### Prerequisite 
-.Net Core 2.0.3
-NodeJS 8.11.0
-npm 5.6.0
-Angular CLI 6.0
+.Net Core 2.0.3<br />
+NodeJS 8.11.0 <br />
+npm 5.6.0 <br />
+Angular CLI 6.0 <br />
 
 ### Setup Project
 git clone https://github.com/JayeshAgrawal/contact-app.git
 
 ### install npm packages and restore dotnet nuget pakages in command promt:
-npm install
-dotnet restore 
+npm install <br />
+dotnet restore  
 
 ### Update Connectionstring in Appsettings.json file
  "ConnectionStrings": {
