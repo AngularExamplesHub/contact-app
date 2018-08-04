@@ -30,10 +30,10 @@ dotnet run
 
 ### Step By Step Articles:
 
-#### [Contact Application using ASP.NET Core Web API, Angular 6.0, and Visual Studio Code Part One](https://crack-codes.blogspot.com/2018/05/contact-application-using-aspnet-core.html)
+#### [Contact Application using ASP.NET Core Web API, Angular 6.0, and Visual Studio Code Part One](https://crack-codes.blogspot.com/2018/05/contact-app-using-aspnet-core-angular-part-one.html)
 In the article, we will set up ASP.NET Core Web API project, and develop the Web API for contact CRUD operations.
 
-#### [Contact Application using ASP.NET Core Web API, Angular 6.0, and Visual Studio Code Part Two](https://crack-codes.blogspot.com/2018/07/contact-application-using-aspnet-core.html)
+#### [Contact Application using ASP.NET Core Web API, Angular 6.0, and Visual Studio Code Part Two](https://crack-codes.blogspot.com/2018/06/contact-app-using-aspnet-core-angular-part-two.html)
 In the article, we will setup Angular 6 within ASP.NET Core Web API Project, and develop the contact form & list component using Angular Material UI that will consume Web API which we have created in Part One.
 
 #### [Contact Application Azure Deployment ASP.NET Core Web API, Angular 6 Using Visual Studio Code](https://crack-codes.blogspot.com/2018/06/contact-application-azure-deployment.html)
