@@ -1,8 +1,8 @@
 # Contact Application
-Contact Application using ASP.NET Core Web API, Angular 6.0, Angular Material UI 6 and Visual Studio Code. 
+Contact Application using ASP.NET Core Web API 2.1, Angular 6.0, Angular Material UI 6 and Visual Studio Code. 
 
 ### Prerequisite 
-.Net Core 2.0.3<br />
+.Net Core 2.1.5<br />
 NodeJS 8.11.0 <br />
 npm 5.6.0 <br />
 Angular CLI 6.0 <br />
