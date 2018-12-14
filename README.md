@@ -8,7 +8,7 @@ npm 5.6.0 <br />
 Angular CLI 6.0 <br />
 
 ### Setup Project
-git clone https://github.com/JayeshAgrawal/contact-app.git
+git clone https://github.com/AngularExamplesHub/contact-app.git
 
 ### install npm packages and restore dotnet nuget pakages in command promt:
 npm install <br />
@@ -38,6 +38,9 @@ In the article, we will setup Angular 6 within ASP.NET Core Web API Project, and
 
 #### [Contact Application Azure Deployment ASP.NET Core Web API, Angular 6 Using Visual Studio Code](https://crack-codes.blogspot.com/2018/06/contact-application-azure-deployment.html)
 In this article, we are going to deploy/host a contact application with Visual Studio code to Azure web apps.
+
+#### [Contact application - Upgrade Asp.net Core 2.0 to 2.1](https://crack-codes.blogspot.com/2018/11/contact-application-upgrade-aspnet-core.html)
+In this article, we will look into steps for contact application - upgrade Asp.net Core 2.0 to 2.1, please see my previous articles about how we developed contact application.
 
 ### ScreenShots
 ![Alt text](https://4.bp.blogspot.com/-eteH6ZphAVg/W0GzsIGdefI/AAAAAAAAAg8/URKnk8KI9-Aw7tV283rqEaYtVH3EHz8TwCEwYBhgL/s1600/1list.png "Contact List")
